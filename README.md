@@ -33,10 +33,10 @@ You must have Python 3 installed on your system.
 ### Installation
 
 1. **Clone the repository:**
-  
-      git clone https://github.com/your-username/MilleGenesis.git
+  ```
+      git clone [https://github.com/your-username/MilleGenesis.git](https://github.com/Cristography/RM_Generator.git)
       cd MilleGenesis
-  
+  ```
 2. **Install dependencies from `requirements.txt`:**
   
       pip install -r requirements.txt
